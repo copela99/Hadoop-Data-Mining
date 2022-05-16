@@ -1,0 +1,11 @@
+sunny,hot,yes,yes
+sunny,hot,no,no
+sunny,mild,no,no
+sunny,mild,yes,yes
+sunny,mild,yes,no
+rainy,mild,no,no
+rainy,mild,yes,yes
+rainy,hot,no,yes
+snowy,cold,no,yes
+snowy,mild,no,no
+
